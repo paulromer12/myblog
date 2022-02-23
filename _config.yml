@@ -23,7 +23,7 @@ email: paulromer2036@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  this site has the purpose of teasing out poorly thought out ideas and providing
  an outlet to make myself commit to producing rather than consuming.
-baseurl: "/myblog" # the subpath of your site, e.g. /blog
+baseurl: "/paulromer12.github.io" # the subpath of your site, e.g. /blog
 url: "https://paulromer12.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: @paulromer2036
 #github_username: @paulromer12
