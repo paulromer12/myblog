@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Novel Ways to Stack"
+title:  "ways to stack sats"
 date:   2022-02-19 21:38:28 -0600
 categories: jekyll update
 ---
