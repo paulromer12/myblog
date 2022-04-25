@@ -5,7 +5,7 @@ date:   2022-04-24 12:38:28 -0600
 categories: jekyll update
 ---
 Why twenty-one twelve?
-<pre>
+
 2112 is a palindrome which is nice.
 
 
@@ -19,6 +19,5 @@ There is finality to life and I want to make the most of it.
 
 
 12 is the number of some of the GOATs. Aryton Senna and Tom Brady.
-
+ 
 They show what is capable when dedicating yourself to daily improvement, commitment, and focus to your craft. I don't aspire to be the best. I want to be the best that I can be to provide for my family and help those around me.
-</pre>
